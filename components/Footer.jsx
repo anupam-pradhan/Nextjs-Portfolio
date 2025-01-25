@@ -12,7 +12,7 @@ const Footer = () => {
       <div>
         <p className={style.find}>find me in:</p>
         <a
-          href="https://www.linkedin.com/in/kasim393/"
+          href="https://www.linkedin.com/in/anupam-pradhan/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -21,7 +21,7 @@ const Footer = () => {
           </span>
         </a>
         <a
-          href="https://github.com/kasim393"
+          href="https://github.com/anupam-pradhan"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -30,7 +30,7 @@ const Footer = () => {
           </span>
         </a>
         <a
-          href="https://twitter.com/cypherwebs"
+          href="https://twitter.com/AnupamP0078"
           target="_blank"
           rel="noopener noreferrer"
         >

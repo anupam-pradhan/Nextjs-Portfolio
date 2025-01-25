@@ -50,8 +50,8 @@ export default function Home() {
                 }}
               >
                 <p>Hello! I am</p>
-                <h1>Kasim Shaikh</h1>
-                <h3>front-end developer</h3>
+                <h1>Anupam Pradhan</h1>
+                <h3>Full-Stack Web Developer</h3>
               </motion.div>
             </AnimatePresence>
             <div className={styles.left_col_bottom}>
