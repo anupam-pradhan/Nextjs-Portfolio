@@ -102,7 +102,7 @@ const About = () => {
         >
           <span className={style.ml_2}> /**</span>
           <span style={{ fontWeight: "bold" }}>* About me</span>
-          <span>* Creative and self-starting Front-End Developer</span>
+          <span>* Creative and self-starting Full-Stack Web Developer</span>
           <span>* with 2 years experience and maintaining</span>
           <span>* responsive websites.</span>
           <span>* Proficient in HTML, CSS, JavaScript</span>
